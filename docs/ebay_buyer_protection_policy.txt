@@ -1,0 +1,113 @@
+EBAY BUYER PROTECTION & RETURN POLICY
+Source: eBay Help Center (https://www.ebay.com/help/buying/returns-refunds/returns-refunds?id=4008)
+Last Updated: 2024
+
+=== OVERVIEW ===
+eBay offers comprehensive buyer protection through its Money Back Guarantee program. The return and refund experience depends on whether the seller accepts returns and the specific terms of their listing.
+
+=== EBAY MONEY BACK GUARANTEE ===
+eBay's Money Back Guarantee covers buyers in the following situations:
+- The item is not received
+- The item does not match the listing description
+- The item arrives damaged or defective
+- The item is not authentic (counterfeit)
+
+Coverage Period: Claims must be filed within 30 days of the actual or estimated delivery date.
+
+=== SELLER RETURN POLICIES ===
+eBay sellers can set their own return policies, which may include:
+
+1. NO RETURNS ACCEPTED
+   - The seller does not accept returns for change of mind.
+   - However, eBay's Money Back Guarantee still applies for "item not as described" cases.
+
+2. 30-DAY RETURNS
+   - Buyer has 30 days from delivery to initiate a return.
+   - Seller may specify who pays return shipping.
+
+3. 60-DAY RETURNS
+   - Extended return window of 60 days.
+   - Common for sellers with eBay Top Rated Plus status.
+
+4. FREE RETURNS
+   - Seller offers free return shipping on all returns.
+   - Often offered by Top Rated Sellers to qualify for Top Rated Plus badge.
+
+=== ITEM NOT AS DESCRIBED ===
+If an item does not match the listing:
+- Buyer must report the issue within 30 days of delivery
+- Seller has 3 business days to respond
+- If seller does not respond, eBay will step in
+- eBay may issue a full refund including original shipping
+- Return shipping is covered by eBay or the seller in most cases
+
+=== CHANGE OF MIND RETURNS ===
+If buyer simply changes their mind:
+- Return is only possible if seller's policy allows it
+- Buyer typically pays return shipping
+- Some sellers charge a restocking fee (must be disclosed in listing)
+- Restocking fees cannot exceed 15% of the item price per eBay policy
+
+=== RETURN PROCESS ===
+Step 1: Go to "Purchase History" in your eBay account
+Step 2: Find the item and click "Return this item"
+Step 3: Select the reason for return (damaged, not as described, changed mind, etc.)
+Step 4: Add photos if item is damaged or defective
+Step 5: Submit the return request
+Step 6: Wait for seller to respond (3 business days)
+Step 7: If approved, ship the item back
+Step 8: Refund is issued after seller receives item
+
+=== REFUND TIMELINES ===
+- PayPal: 3 to 5 business days
+- Credit/Debit Card: 3 to 10 business days
+- eBay Gift Card: Within 1 business day
+- Checks: Up to 10 business days
+
+=== DISCOUNTED AND AUCTION ITEMS ===
+- Items purchased at auction (bidding) follow the seller's stated return policy.
+- Items listed as "Final Sale" or "As Is" are NOT eligible for returns based on buyer preference.
+- However, "Item Not As Described" protection still applies even for Final Sale listings.
+- Discounted Buy-It-Now items follow the seller's standard return policy.
+
+=== HIGH-VALUE ITEMS ===
+For items over $750:
+- Signature confirmation is required for delivery
+- eBay may request additional documentation for returns
+- Authenticity Guarantee program applies to certain high-value items (watches, sneakers, trading cards, handbags)
+
+=== AUTHENTICITY GUARANTEE ===
+eBay's Authenticity Guarantee covers:
+- Sneakers over $100
+- Watches over $500
+- Trading cards over $250
+- Handbags and accessories over $500
+- Fine jewelry over $500
+Items are inspected by eBay's third-party authenticators before delivery.
+If the item fails authentication upon return, the buyer gets a full refund.
+
+=== INTERNATIONAL PURCHASES ===
+- International returns may be subject to import duties and taxes
+- eBay's Global Shipping Program simplifies international returns
+- Return shipping for international orders may be more expensive
+- Currency exchange rates apply to refunds for international transactions
+
+=== BUYER RESPONSIBILITIES ===
+Buyers must:
+- Return items in the same condition as received
+- Use tracked shipping for returns over $750
+- Pack items securely to prevent damage during return shipping
+- Not return items that have been used beyond what is necessary to assess them
+
+=== SELLER RESPONSIBILITIES ===
+Sellers must:
+- Respond to return requests within 3 business days
+- Issue refunds within 2 business days of receiving the returned item
+- Not threaten buyers for leaving negative feedback
+- Comply with eBay's return policy even if their listing says "no returns"
+
+=== CONTACT EBAY ===
+If a return dispute cannot be resolved with the seller, eBay Customer Support can be reached:
+- Through the Resolution Center in your eBay account
+- Via chat or phone support
+- eBay will review the case and make a final decision within 48 hours

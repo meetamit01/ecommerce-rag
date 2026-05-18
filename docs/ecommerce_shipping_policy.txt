@@ -1,0 +1,131 @@
+E-COMMERCE SHIPPING POLICY & DELIVERY GUIDELINES
+Source: Standard E-Commerce Shipping Policy (Based on Shopify Public Documentation and Industry Standards)
+Reference: https://www.shopify.com/blog/shipping-policy
+Last Updated: 2024
+
+=== OVERVIEW ===
+This document outlines standard e-commerce shipping policies, delivery timelines, costs, and related information for online retail purchases. These policies represent industry-standard practices across major e-commerce platforms.
+
+=== SHIPPING METHODS & TIMELINES ===
+
+1. STANDARD SHIPPING
+   - Estimated Delivery: 5–7 business days
+   - Cost: Free on orders over $50; $5.99 for orders under $50
+   - Carrier: USPS, FedEx Ground, or UPS Ground
+   - Tracking: Provided via email upon shipment
+
+2. EXPEDITED SHIPPING
+   - Estimated Delivery: 2–3 business days
+   - Cost: $12.99 flat rate
+   - Carrier: FedEx Express or UPS 2-Day
+   - Cutoff time: Orders placed before 2:00 PM EST ship same day
+
+3. OVERNIGHT / NEXT-DAY SHIPPING
+   - Estimated Delivery: Next business day
+   - Cost: $24.99 flat rate
+   - Carrier: FedEx Priority Overnight or UPS Next Day Air
+   - Cutoff time: Orders placed before 12:00 PM EST ship same day
+   - Not available on weekends or federal holidays
+
+4. SAME-DAY DELIVERY (SELECT CITIES)
+   - Estimated Delivery: Within 4–6 hours of order placement
+   - Cost: $14.99
+   - Available cities: New York, Los Angeles, Chicago, Houston, Phoenix
+   - Orders must be placed before 12:00 PM local time
+   - Delivered via DoorDash Drive or Instacart
+
+5. INTERNATIONAL SHIPPING
+   - Estimated Delivery: 10–21 business days
+   - Cost: Calculated at checkout based on destination country and package weight
+   - Carrier: DHL Express, FedEx International, or USPS First-Class International
+   - Customs duties and taxes: Buyer's responsibility
+   - Restricted countries: North Korea, Iran, Cuba, Syria, Russia (as per U.S. export regulations)
+
+=== FREE SHIPPING ELIGIBILITY ===
+Free standard shipping is available on:
+- Orders totaling $50 or more (after discounts/coupons)
+- Orders placed by loyalty program members (Silver tier and above) — no minimum order
+- Subscription box orders (all subscription tiers)
+- Exchange orders for defective or damaged items
+
+Note: Free shipping applies to the contiguous United States only. Alaska, Hawaii, Puerto Rico, and U.S. territories may incur additional shipping surcharges.
+
+=== ORDER PROCESSING TIME ===
+- Standard orders: Processed within 1–2 business days
+- Custom or personalized orders: 3–5 business days before shipping
+- Pre-order items: Shipped on the listed release date
+- Orders placed on weekends/holidays: Processed on the next business day
+- During peak seasons (Black Friday, Christmas): Processing may take 3–4 business days
+
+=== TRACKING YOUR ORDER ===
+- A shipping confirmation email with tracking number is sent within 24 hours of shipment
+- Track your order at: www.store.com/track-order or via the carrier's website
+- Tracking updates may take 24–48 hours after the tracking number is generated
+- SMS tracking alerts available — opt in during checkout or in account settings
+
+=== SHIPPING ADDRESS POLICY ===
+- Orders can be shipped to most addresses in the United States and internationally
+- P.O. Boxes: Accepted for USPS standard shipping only (not for FedEx or UPS)
+- APO/FPO Military Addresses: Accepted via USPS Priority Mail (7–21 business days)
+- Address changes: Must be requested within 1 hour of order placement by contacting customer support
+- Incorrect address: Customer is responsible for costs incurred due to incorrect shipping address
+
+=== LOST OR STOLEN PACKAGES ===
+If your package is marked as "Delivered" but not received:
+1. Check with neighbors and in mailbox/porch areas
+2. Wait 24 hours (carriers sometimes mark early)
+3. Contact carrier with tracking number to file a trace
+4. Contact our customer support if package not located within 3 business days
+5. We will file a claim with the carrier on your behalf
+6. Resolution: Replacement shipment or refund within 5–7 business days after investigation
+
+For packages stolen after delivery (porch piracy):
+- File a police report
+- Contact your homeowner's or renter's insurance
+- We may offer a one-time courtesy replacement at our discretion
+
+=== DAMAGED PACKAGES ===
+If your package arrives damaged:
+1. Document damage with photos before opening (if possible)
+2. Photograph the damaged item(s) and packaging
+3. Contact customer support within 72 hours of delivery
+4. Email photos to: shipping-claims@store.com
+5. A replacement will be shipped at no charge or a full refund issued within 3–5 business days
+
+=== SHIPPING RESTRICTIONS ===
+Certain items have shipping restrictions:
+- Hazardous materials (lithium batteries over certain size, aerosols): Ground shipping only
+- Alcohol: Available only in select states; requires age verification upon delivery
+- Prescription items: Require valid prescription and ship only to confirmed address
+- Live plants: Shipped only to continental U.S.; not available during extreme weather
+- Oversized items (over 150 lbs or 108" in length): Freight shipping, contact for quote
+
+=== HOLIDAY SHIPPING DEADLINES ===
+To guarantee delivery by Christmas (December 25):
+- Standard Shipping: Order by December 15
+- Expedited Shipping: Order by December 20
+- Overnight Shipping: Order by December 23 (before 12 PM EST)
+
+=== SHIPPING FOR RETURNS ===
+- Prepaid return labels are provided for defective or damaged items (free)
+- Change-of-mind returns: Customer pays return shipping (flat rate $6.99 label available)
+- Exchanges: Free return shipping for size/color exchanges
+- Return drop-off: Available at partner locations (Walgreens, FedEx Office locations)
+
+=== SUBSCRIPTION ORDERS ===
+- Subscription boxes ship on the 1st of each month
+- Subscribers can pause, skip, or cancel via their account dashboard
+- Cancellations must be made 5 days before the next billing date to avoid shipping the next box
+- Subscription shipping is always free, regardless of order value
+
+=== ENVIRONMENTAL COMMITMENT ===
+- All packaging uses at least 80% recycled materials
+- Packing peanuts replaced with biodegradable cornstarch alternatives
+- Opt for "Ship in Fewer Boxes" option at checkout to reduce packaging waste
+- Carbon-neutral shipping option available (adds $0.50 per order) — offsets carbon footprint through certified programs
+
+=== CONTACT CUSTOMER SUPPORT FOR SHIPPING ISSUES ===
+- Email: shipping@store.com
+- Phone: 1-888-SHIP-NOW (Monday–Saturday, 8AM–8PM EST)
+- Live Chat: Available on website
+- Response Time: Within 4 hours during business hours

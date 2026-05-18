@@ -1,0 +1,231 @@
+CONSUMER ELECTRONICS PRODUCT MANUAL - SMART HOME DEVICES
+Source: Generic Consumer Electronics Manual (Publicly Available Template)
+Category: Smart Home Devices, Wireless Earbuds, Smartwatches
+Version: 2024 Edition
+
+=========================================================
+SECTION 1: WIRELESS EARBUDS - PRODUCT MANUAL
+=========================================================
+
+PRODUCT NAME: ProSound Wireless Earbuds Model WE-500
+WARRANTY PERIOD: 1 Year Limited Warranty
+
+--- PACKAGE CONTENTS ---
+- 2x Earbud units (Left & Right)
+- 1x Charging Case
+- 3x Ear tip sizes (Small, Medium, Large)
+- 1x USB-C Charging Cable
+- 1x Quick Start Guide
+- 1x Safety Information Booklet
+
+--- SPECIFICATIONS ---
+- Driver Size: 10mm dynamic driver
+- Frequency Response: 20Hz – 20,000Hz
+- Battery Life: 8 hours (earbuds) + 24 hours (charging case)
+- Charging Time: 1.5 hours (earbuds), 2 hours (case)
+- Connectivity: Bluetooth 5.3
+- Range: Up to 10 meters (33 feet)
+- Water Resistance: IPX4 (splash-proof)
+- Weight: 5g per earbud
+- Supported Codecs: SBC, AAC, aptX
+
+--- INITIAL SETUP ---
+1. Remove earbuds from charging case — they will automatically enter pairing mode (LED flashes blue rapidly)
+2. On your device, navigate to Bluetooth settings
+3. Select "ProSound WE-500" from the available devices list
+4. Wait for the confirmation sound ("Connected")
+5. For Android: Enable "HD Audio" in Bluetooth settings for best quality
+6. For iOS: Earbuds are automatically set to AAC codec
+
+--- TOUCH CONTROLS ---
+Left Earbud:
+- Single tap: Play/Pause
+- Double tap: Previous track
+- Triple tap: Volume down
+- Long press (2 sec): Activate voice assistant
+
+Right Earbud:
+- Single tap: Play/Pause
+- Double tap: Next track
+- Triple tap: Volume up
+- Long press (2 sec): Toggle ANC (Active Noise Cancellation)
+
+--- CHARGING ---
+- Place earbuds in case, ensure they click into position
+- Connect USB-C cable to case charging port
+- LED indicator: Red = charging, Green = fully charged
+- Wireless charging: Compatible with Qi wireless chargers (case only)
+- DO NOT use charging voltages above 5V/1A
+
+--- TROUBLESHOOTING ---
+Problem: Earbuds not connecting
+Solution:
+  1. Ensure Bluetooth is enabled on your device
+  2. Place earbuds back in case for 10 seconds, then remove
+  3. If still not connecting, hold both earbuds for 10 seconds to factory reset
+  4. Re-pair as a new device
+
+Problem: One earbud has lower volume
+Solution:
+  1. Clean the speaker mesh with a dry cotton swab
+  2. Check audio balance settings on your device
+  3. Reset earbuds to factory settings
+
+Problem: Battery draining fast
+Solution:
+  1. Disable ANC when not needed
+  2. Reduce volume level
+  3. Ensure firmware is up to date via the companion app
+
+Problem: Poor call quality
+Solution:
+  1. Ensure microphone is not covered by ear tip
+  2. Move away from interference sources (WiFi routers, microwaves)
+  3. Clean microphone port gently
+
+--- WARRANTY INFORMATION (EARBUDS) ---
+- 1-year warranty against manufacturing defects
+- Warranty does NOT cover:
+  * Physical damage (drops, cracks)
+  * Water damage beyond IPX4 rating
+  * Ear tip wear and tear
+  * Damage from use with unauthorized charging accessories
+- Warranty claim: Contact support with proof of purchase
+
+=========================================================
+SECTION 2: SMARTWATCH - PRODUCT MANUAL
+=========================================================
+
+PRODUCT NAME: FitPro Smartwatch Model SW-300
+WARRANTY PERIOD: 1 Year Limited Warranty
+
+--- SPECIFICATIONS ---
+- Display: 1.4" AMOLED, 320x320 resolution
+- Battery Life: 7 days (normal use), 3 days (GPS active)
+- Water Resistance: 5ATM (50 meters depth)
+- Sensors: Heart Rate, SpO2, Accelerometer, Gyroscope, GPS
+- Connectivity: Bluetooth 5.0, Wi-Fi 2.4GHz
+- Compatibility: iOS 12+, Android 8.0+
+- Storage: 4GB internal (music storage)
+- Charging: Magnetic charging cable (included)
+
+--- HEALTH FEATURES ---
+1. Heart Rate Monitoring
+   - 24/7 continuous monitoring
+   - Alerts for abnormal heart rate (above 120 BPM at rest or below 40 BPM)
+   - NOTE: This device is NOT a medical device. Consult a doctor for health concerns.
+
+2. Blood Oxygen (SpO2)
+   - Measures blood oxygen saturation
+   - Normal range: 95–100%
+   - Measurement takes approximately 30 seconds
+   - NOT intended for medical diagnosis
+
+3. Sleep Tracking
+   - Automatically detects sleep stages (light, deep, REM)
+   - Tracks sleep duration and quality score
+   - Wear the watch on your non-dominant wrist for accurate sleep tracking
+
+4. Stress Monitoring
+   - Uses HRV (Heart Rate Variability) to estimate stress levels
+   - Guided breathing exercises available through the FitPro app
+
+--- GPS USAGE ---
+- First GPS lock may take 2–3 minutes in open areas
+- GPS accuracy: ±5 meters in open sky
+- Assisted GPS (A-GPS): Downloads satellite data via Wi-Fi for faster lock
+- Reduce GPS usage to extend battery life
+
+--- TROUBLESHOOTING (SMARTWATCH) ---
+Problem: Watch not syncing with phone
+Solution:
+  1. Ensure Bluetooth is on and watch is within range
+  2. Force close and reopen the FitPro app
+  3. Restart both the watch and phone
+  4. Unpair and re-pair the watch in Bluetooth settings
+
+Problem: Heart rate readings inaccurate
+Solution:
+  1. Wear watch snug on wrist (not too loose)
+  2. Keep the sensor and wrist clean and dry
+  3. Allow 30 seconds for the reading to stabilize
+  4. Avoid movement during manual readings
+
+Problem: GPS not working
+Solution:
+  1. Move to an open area with clear sky view
+  2. Enable Location permissions for FitPro app
+  3. Sync A-GPS data via the app (requires Wi-Fi)
+
+=========================================================
+SECTION 3: SMART SPEAKER - PRODUCT MANUAL
+=========================================================
+
+PRODUCT NAME: VoiceHub Smart Speaker Model SS-200
+WARRANTY PERIOD: 2 Years Limited Warranty
+
+--- SPECIFICATIONS ---
+- Speaker Output: 20W full-range driver + 10W tweeter
+- Microphone Array: 7-microphone array with 360° pickup
+- Connectivity: Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0
+- Smart Home: Zigbee, Z-Wave compatible
+- Power: AC adapter (included), 100-240V universal
+- Dimensions: 148mm x 148mm x 157mm
+- Weight: 980g
+
+--- SETUP ---
+1. Plug in power adapter and wait for startup tone
+2. Download the VoiceHub app on iOS or Android
+3. Open app and tap "Add New Device"
+4. Follow on-screen instructions to connect to Wi-Fi
+5. Choose your preferred voice assistant (Alexa, Google Assistant, or VoiceHub native)
+6. Complete setup and personalize wake word
+
+--- PRIVACY FEATURES ---
+- Physical microphone mute button (hardware switch)
+- LED ring turns RED when microphone is muted — no audio is processed
+- Local voice processing for basic commands (no cloud upload)
+- Review and delete voice history in the VoiceHub app
+
+--- WARRANTY INFORMATION (SMART SPEAKER) ---
+- 2-year warranty covers manufacturing defects and hardware failures
+- Warranty does NOT cover:
+  * Damage from power surges (use a surge protector)
+  * Physical damage from drops or liquid spills
+  * Damage caused by unauthorized modifications
+
+=========================================================
+SECTION 4: GENERAL WARRANTY & SUPPORT INFORMATION
+=========================================================
+
+--- WARRANTY REGISTRATION ---
+Register your product within 30 days of purchase at: www.proelectronics-support.com/register
+Registration is required to activate warranty service.
+
+--- WARRANTY CLAIM PROCESS ---
+1. Contact customer support via email or phone
+2. Provide: proof of purchase, product serial number, description of issue
+3. Support team will guide you through troubleshooting
+4. If defective: You will receive a Return Merchandise Authorization (RMA) number
+5. Ship product with RMA number clearly marked on package
+6. Replacement or repaired unit shipped within 5–7 business days of receipt
+
+--- EXTENDED WARRANTY ---
+- Optional 2-year extended warranty available for purchase within 90 days of product purchase
+- Extended warranty cost: 15% of original purchase price
+- Covers everything under standard warranty plus accidental damage (one incident per year)
+- Purchase at: www.proelectronics-support.com/extended-warranty
+
+--- CUSTOMER SUPPORT CONTACT ---
+- Email: support@proelectronics.com
+- Phone: 1-800-PRO-ELEC (Monday–Friday, 9AM–6PM EST)
+- Live Chat: Available on website (24/7)
+- Response time: Email within 24 hours, Chat within 5 minutes
+
+--- SAFETY WARNINGS ---
+- Keep devices away from water unless rated for water resistance
+- Do not attempt to open or repair devices yourself (voids warranty)
+- Use only included or manufacturer-approved charging accessories
+- Keep away from extreme temperatures (below -10°C or above 45°C)
+- Not suitable for children under 3 years (small parts)
+- Dispose of batteries responsibly per local regulations
