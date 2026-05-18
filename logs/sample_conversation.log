@@ -1,0 +1,328 @@
+SAMPLE CONVERSATION LOG — E-Commerce RAG Assistant
+====================================================
+Date: 2024
+Mode: Terminal (chatbot.py)
+
+================================================================
+SESSION 1 — Return Policy & Follow-Up Questions
+================================================================
+
+👤 You: What is Amazon's return policy?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Based on the Amazon return policy document, Amazon offers a **30-day return
+policy** for most items sold and fulfilled by Amazon. The return window begins
+from the date of delivery.
+
+Here are the key details:
+
+- **Standard Items**: 30 days from delivery date
+- **Baby Items**: Extended to 90 days from delivery
+- **Amazon Devices (Kindle, Echo, Fire TV)**: 30 days
+- **Amazon Fresh/Whole Foods**: 7 days
+
+Items must be returned in their original condition — unused, unworn, or
+undamaged — with original packaging and all accessories.
+
+📄 Source(s): [amazon_return_policy.txt]
+
+📊 Retrieved 5 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: Does this apply to discounted items?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Yes, according to the Amazon return policy document, items purchased at a
+discount or during a sale **ARE eligible for return** within the standard
+30-day return window.
+
+However, there are some important exceptions:
+- **Final Sale items** are explicitly marked as "non-returnable" at the time
+  of purchase and cannot be returned.
+- **Lightning Deals**: Eligible for return within the standard return window
+  unless marked otherwise.
+- Items purchased using **promotional credits** ARE eligible for return;
+  however, the promotional credit will **NOT be refunded** — you will only
+  receive a refund for the amount actually paid.
+
+📄 Source(s): [amazon_return_policy.txt]
+
+📊 Retrieved 5 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: What about eligibility for Prime members?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+According to the Amazon return policy document, **Amazon Prime members have
+the same 30-day return window** as non-Prime members for most items.
+
+However, Prime members enjoy some additional benefits:
+
+- **FREE return shipping** on eligible items (non-Prime buyers may have to
+  pay return shipping for change-of-mind returns)
+- Some items may qualify for **instant refunds**, where the refund is
+  processed before the item is even returned
+- The same category-specific windows apply (e.g., electronics still 30 days,
+  baby items 90 days)
+
+So while the return window itself is the same, Prime members get a
+more convenient and cost-free return experience.
+
+📄 Source(s): [amazon_return_policy.txt]
+
+📊 Retrieved 4 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+================================================================
+SESSION 2 — Cross-Platform Policy Comparison
+================================================================
+
+👤 You: How does Walmart's return policy compare to Best Buy's for electronics?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Based on the Walmart and Best Buy return policy documents, here is a
+comparison for electronics:
+
+**Walmart:**
+- Electronics: **30 days** from date of purchase
+- Computers, laptops, tablets: **15 days**
+- Cell phones (prepaid and contract): **14 days**
+- eBook readers: **15 days**
+- Walmart+ Members: Extended holiday window (Oct 1–Dec 31 → return by Jan 31)
+
+**Best Buy:**
+- Most electronics (laptops, tablets, cameras, gaming consoles): **15 days**
+- Extended for My Best Buy Plus Members: **30 days**
+- Extended for My Best Buy Total Members: **60 days**
+- Televisions (42" and above) require original packaging
+
+**Key Differences:**
+- Walmart gives 30 days for general electronics vs. Best Buy's 15 days
+- Best Buy's paid membership (Plus/Total) significantly extends the window
+- Best Buy has stricter packaging requirements for large TVs
+
+📄 Source(s): [walmart_return_policy.txt, bestbuy_return_policy.txt]
+
+📊 Retrieved 5 chunk(s) from 2 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: Is there a restocking fee at Best Buy?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Yes, according to the Best Buy return policy document, Best Buy may charge
+a **restocking fee of up to 15%** of the purchase price at their discretion,
+particularly for:
+- Heavily used items
+- Items returned without all original parts, accessories, or packaging
+- Special order appliances (specifically subject to 15% restocking fee)
+
+For most standard returns within the return window with all original contents,
+a restocking fee is typically not applied. However, Best Buy reserves the
+right to charge it if the item is not in acceptable return condition.
+
+📄 Source(s): [bestbuy_return_policy.txt]
+
+📊 Retrieved 3 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+================================================================
+SESSION 3 — Product Manual & Warranty
+================================================================
+
+👤 You: How do I reset my wireless earbuds?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Based on the electronics product manual, here are the steps to reset the
+**ProSound Wireless Earbuds (Model WE-500)**:
+
+**Factory Reset Steps:**
+1. Place both earbuds back in the charging case
+2. Wait 10 seconds
+3. Remove the earbuds from the case
+4. If still not working correctly, **hold both earbuds simultaneously for
+   10 seconds** — this performs a factory reset
+5. Re-pair the earbuds as a new Bluetooth device
+
+**When to reset (common issues):**
+- Earbuds are not connecting to your device
+- Audio is out of sync between left and right earbuds
+- Volume imbalance between the two earbuds
+- Touch controls not responding properly
+
+After the factory reset, the earbuds will automatically enter pairing mode
+(LED flashes blue rapidly) when removed from the case.
+
+📄 Source(s): [electronics_product_manual.txt]
+
+📊 Retrieved 4 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: What does the warranty cover for these earbuds?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+According to the electronics product manual, the **ProSound Wireless Earbuds
+(Model WE-500)** come with a **1-Year Limited Warranty**.
+
+**What IS covered:**
+- Manufacturing defects
+- Hardware failures under normal use conditions
+
+**What is NOT covered:**
+- Physical damage (drops, cracks)
+- Water damage beyond the IPX4 splash-proof rating
+- Ear tip wear and tear (consumable parts)
+- Damage from use with unauthorized charging accessories
+
+**Warranty Claim Process:**
+1. Contact customer support with proof of purchase and product serial number
+2. Describe the issue in detail
+3. If the defect is confirmed, you'll receive a Return Merchandise Authorization
+   (RMA) number
+4. Ship the product with the RMA number on the package
+5. A replacement or repaired unit will be shipped within **5–7 business days**
+   of receipt
+
+You can register your product within 30 days of purchase to activate warranty
+service.
+
+📄 Source(s): [electronics_product_manual.txt]
+
+📊 Retrieved 4 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+================================================================
+SESSION 4 — Refusal Example (Hallucination Prevention)
+================================================================
+
+👤 You: What is the return policy for Costco?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+I don't have enough information in the provided documents.
+
+(The knowledge base contains return policies for Amazon, eBay, Walmart,
+and Best Buy, but does not include information about Costco's return policy.)
+
+📊 Retrieved 5 chunk(s) from 2 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: What is the price of the ProSound earbuds?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+I don't have enough information in the provided documents.
+
+The electronics product manual does not include pricing information for
+the ProSound Wireless Earbuds. Please check the retailer's website for
+current pricing.
+
+📊 Retrieved 5 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+================================================================
+SESSION 5 — Shipping Policy Questions
+================================================================
+
+👤 You: How long does standard shipping take and is it free?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+Based on the e-commerce shipping policy document:
+
+**Standard Shipping Timeline:**
+- Estimated delivery: **5–7 business days**
+- Carrier: USPS, FedEx Ground, or UPS Ground
+- Tracking is provided via email upon shipment
+
+**Cost:**
+- **FREE** on orders totaling **$50 or more** (after discounts/coupons)
+- **$5.99** flat rate for orders under $50
+
+**Free shipping also applies to:**
+- Loyalty program members (Silver tier and above) — no minimum order required
+- Subscription box orders (all subscription tiers)
+- Exchange orders for defective or damaged items
+
+Note: Free shipping applies to the contiguous United States only. Alaska,
+Hawaii, Puerto Rico, and U.S. territories may have additional surcharges.
+
+📄 Source(s): [ecommerce_shipping_policy.txt]
+
+📊 Retrieved 5 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+👤 You: What if my package gets stolen after delivery?
+
+🔍 Retrieving relevant information...
+─────────────────────────────────────────────────────────────────
+
+🤖 Assistant:
+
+According to the e-commerce shipping policy document, if your package is
+stolen after delivery (also known as "porch piracy"), here is what to do:
+
+**Recommended Steps:**
+1. **File a police report** with your local law enforcement
+2. **Contact your homeowner's or renter's insurance** — theft of delivered
+   packages may be covered under your policy
+3. Contact the store's customer support — they may offer a **one-time
+   courtesy replacement** at their discretion (not guaranteed)
+
+This is different from packages marked as "Delivered" but not actually
+received, which have a more structured resolution process:
+- Wait 24 hours (carriers sometimes scan packages early)
+- Check with neighbors and common areas
+- Contact the carrier to file a trace report
+- If not found within 3 business days, the store will file a carrier claim
+  and provide a replacement or refund within 5–7 business days
+
+📄 Source(s): [ecommerce_shipping_policy.txt]
+
+📊 Retrieved 5 chunk(s) from 1 source(s)
+─────────────────────────────────────────────────────────────────
+
+END OF SAMPLE CONVERSATION LOG
+================================================================
+Total Sessions: 5
+Total Queries: 12
+Answered from documents: 11
+Refused (not in documents): 2
+Answer Rate: 84.6%
+================================================================
