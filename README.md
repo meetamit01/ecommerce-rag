@@ -142,7 +142,7 @@ ecommerce-rag/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/ecommerce-rag.git
+git clone https://github.com/meetamit01/ecommerce-rag.git
 cd ecommerce-rag
 ```
 
